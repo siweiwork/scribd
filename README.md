@@ -1,2 +1,1 @@
-# scribd
-ml@scribd
+Some useful functions for ml/nlp/text processing
